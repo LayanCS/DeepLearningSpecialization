@@ -20,3 +20,10 @@ DL projects from DL Specialization course by deeplearning.ai
 | 4 | 3 | [Autonomous_driving_application_Car_detection_v3a](https://github.com/LayanCS/DeepLearningSpecialization/blob/master/projects/Autonomous_driving_application_Car_detection_v3a.ipynb) |
 | 4 | 4 | [Face_Recognition_v3a](https://github.com/LayanCS/DeepLearningSpecialization/blob/master/projects/Face_Recognition_v3a.ipynb) |
 | 4 | 4 | [Art_Generation_with_Neural_Style_Transfer_v3a](https://github.com/LayanCS/DeepLearningSpecialization/blob/master/projects/Art_Generation_with_Neural_Style_Transfer_v3a%20(1).ipynb) |
+| 5 | 1 | [Building_a_Recurrent_Neural_Network_Step_by_Step_v3b]() |
+| 5 | 1 | [Dinosaurus_Island_Character_level_language_model_final_v3b]() |
+| 5 | 1 | [Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a]() |
+| 5 | 2 | [Emojify_v2a]() |
+| 5 | 2 | [Operations_on_word_vectors_v2a]() |
+| 5 | 3 | [Neural_machine_translation_with_attention_v4a]() |
+| 5 | 3 | [Trigger_word_detection_v1a]() |
